@@ -12,11 +12,11 @@ anti-XSS is an open source XSS auditor which comes with a powerful detection eng
 
 # Installation
 
-You can download the latest zipball by clicking [here](https://github.com/lewangbtcc/anti-XSS/archive/master.zip).
+You can download the latest zipball by clicking [here](https://github.com/lewang2333/anti-XSS/archive/master.zip).
 
-Preferably, you can download anti-XSS by cloning the [Git](https://github.com/lewangbtcc/anti-XSS) repository and then install requirements.
+Preferably, you can download anti-XSS by cloning the [Git](https://github.com/lewang2333/anti-XSS) repository and then install requirements.
 
-    $ git clone https://git@github.com:lewangbtcc/anti-XSS.git anti-XSS
+    $ git clone https://git@github.com:lewang2333/anti-XSS.git anti-XSS
     $ cd anti-XSS
     $ pip install -r requirements.txt
 
@@ -32,9 +32,9 @@ or:
 
     python anti-XSS.py --help
 
-To get an overview of anti-XSS capabilities, list of supported features and description of all options and switches, along with examples, you are advised to consult the [user's manual](https://github.com/lewangbtcc/anti-XSS/wiki).
+To get an overview of anti-XSS capabilities, list of supported features and description of all options and switches, along with examples, you are advised to consult the [user's manual](https://github.com/lewang2333/anti-XSS/wiki).
 
 # Links
 
 * Author's homepage: https://lewang2333.github.io
-* Download: [.tar.gz](https://github.com/lewangbtcc/anti-XSS/tarball/master) or [.zip](https://github.com/lewangbtcc/anti-XSS/zipball/master)
+* Download: [.tar.gz](https://github.com/lewang2333/anti-XSS/tarball/master) or [.zip](https://github.com/lewang2333/anti-XSS/zipball/master)
